@@ -9,7 +9,7 @@
 Assalamualaikum Everyone!  
 **Welcome to My BADHON CHAT BOT Fork!**
 
-![Box-shaped Image](https://i.imgur.com/u7VnPzH.png)
+![Box-shaped Image](https://i.imgur.com/iXiIhhM.jpeg)
 
 <p align="center" style="animation: glow 2s infinite alternate; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;">
   <span style="font-size: 24px; font-weight: bold;">BADHON CHAT BOT</span><br>
